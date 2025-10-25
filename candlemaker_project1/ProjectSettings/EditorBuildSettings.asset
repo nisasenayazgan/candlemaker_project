@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/firstAnimation.unity
+    guid: 5fde041812f214d85a512f1b32d1be80
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 4f1c9d7e23f594131a1e44bce114b83c
+  - enabled: 1
+    path: Assets/Scenes/(1)workShop.unity
+    guid: 230f737aa5a08448bab67ad7def38ac1
+  - enabled: 1
+    path: Assets/Scenes/(2)weaversDistrict.unity
+    guid: 0481f000c52dc40f892ebff70144f56b
+  - enabled: 1
+    path: Assets/Scenes/(3)bellTowerQuarter.unity
+    guid: 7259688217d3240b78e2e919f49b93fd
+  - enabled: 1
+    path: Assets/Scenes/(4)orphansAlley.unity
+    guid: f627f1f2097074270a81847d9269e883
+  - enabled: 1
+    path: Assets/Scenes/(5)scholarsLibrary.unity
+    guid: 60cfee7efd376490ca7f99dc7457eeac
+  - enabled: 1
+    path: Assets/Scenes/(6)cathedralOfSouls.unity
+    guid: 6eeb4719f6f4a4f10bd8197a3bf1d2ac
+  - enabled: 1
+    path: Assets/Scenes/endScene.unity
+    guid: 081422924cffb488a8d53df1ed5602b5
+  m_configObjects: {}
